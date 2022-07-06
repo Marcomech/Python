@@ -1,2 +1,0 @@
-Es un ejemplo
-
